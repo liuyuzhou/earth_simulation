@@ -1,0 +1,19 @@
+# python
+.idea
+
+# Environments
+.env
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.Python
+build/
+
+log_files/*
